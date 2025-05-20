@@ -1,4 +1,6 @@
 # 🎓 CampusCart
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 
 **CampusCart** is a dynamic full-stack e-commerce platform designed specifically for college students. It provides an intuitive and modern interface for discovering and purchasing student-centric products — from books and stationery to fashion and electronics.
 
