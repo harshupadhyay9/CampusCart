@@ -40,6 +40,24 @@ Built as part of an academic project, this platform emphasizes clean UI/UX, robu
 
 ---
 
+## 📄 License
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+That means:
+
+✅ Others can copy, modify, or use your code
+
+📝 They must give credit to Harsh Upadhyay
+
+❌ You can claim copyright if attribution isn't given
+
+Learn more about CC BY 4.0
+
+## 🙌 Contributions
+Pull requests, feedback, and forks are welcome!
+If you use or modify this project, please give proper attribution.
+
+
 ## 🛠️ Setup Instructions
 
 ### 🔧 Backend (Node.js)
@@ -54,3 +72,4 @@ Frontend (React)
 cd frontend
 npm install
 npm start
+
