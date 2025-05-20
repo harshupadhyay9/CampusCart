@@ -1,6 +1,9 @@
 # 🎓 CampusCart
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
+![Made with](https://img.shields.io/badge/Made%20with-React%2C%20Node%2C%20MongoDB-blueviolet)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![PRs](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/harshupadhyay9/CampusCart)
 
 **CampusCart** is a dynamic full-stack e-commerce platform designed specifically for college students. It provides an intuitive and modern interface for discovering and purchasing student-centric products — from books and stationery to fashion and electronics.
 
